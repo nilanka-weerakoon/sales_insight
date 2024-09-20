@@ -2,7 +2,7 @@
 This sales insights dashboard likely aims to provide a comprehensive overview of sales performance across different dimensions, such as time periods, products, regions, and customer segments. 
 The main objective is to help businesses track key sales metrics, understand trends, identify high-performing areas, and discover opportunities for improvement.
 Insights Gained from Sales Data:
-In a typical sales dashboard, you might expect insights such as:
+In this sales dashboard, you can find insights such as:
 
 Total Sales Revenue: A summary of total sales over a specific period (monthly, quarterly, or yearly).
 
